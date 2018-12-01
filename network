@@ -1,0 +1,16 @@
+avahi
+blueberry
+bluez
+bluez-libs
+bluez-utils
+bluez-firmware
+pulseaudio-bluetooth
+network-manager-applet
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-vpnc
+networkmanager-dispatcher-ntpd
+openresolv
+usbmuxd
+wpa_supplicant
